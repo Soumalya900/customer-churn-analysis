@@ -1,0 +1,8 @@
+# use "pip freeze > requirements.txt" to install all rerequirements
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
