@@ -96,11 +96,11 @@ An interactive dashboard was created to provide business insights and support de
 
 ### Dashboard Overview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/full_dashbord_screenshot.png)
 
 ### Churn Analysis
 
-![Churn Analysis](images/churn_analysis.png)
+![Churn Analysis](images/top_10_churn_driver.png)
 
 ---
 
