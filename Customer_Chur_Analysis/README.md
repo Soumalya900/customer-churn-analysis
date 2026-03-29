@@ -122,7 +122,7 @@ pip install -r requirements.txt
 ### 🔹 3. Run the Model
 
 ```bash
-python scripts/03_predication(ML).py
+python scripts/03_model_prediction.py
 ```
 
 OR open notebooks:
