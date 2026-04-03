@@ -109,7 +109,7 @@ An interactive dashboard was created to provide business insights and support de
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-churn-analysis.git
+git clone https://github.com/Soumalya900/customer-churn-analysis.git
 cd customer-churn-analysis
 ```
 
