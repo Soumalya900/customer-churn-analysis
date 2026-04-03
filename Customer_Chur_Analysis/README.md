@@ -110,7 +110,7 @@ An interactive dashboard was created to provide business insights and support de
 
 ```bash
 git clone https://github.com/Soumalya900/customer-churn-analysis.git
-cd customer-churn-analysis
+cd customer-churn-analysis\Customer_Chur_Analysis
 ```
 
 ### 🔹 2. Install Dependencies
